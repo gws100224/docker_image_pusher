@@ -1,2 +1,4 @@
 nginx
-Aabyss-Team/arl
+ki9mu/arl-ki9mu v3.0.0
+ki9mu/shadow-rabbitmq
+mongo:4.0.27
