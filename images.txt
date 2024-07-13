@@ -1,2 +1,2 @@
 nginx
-Aabyss-Team/ARL
+Aabyss-Team/arl
